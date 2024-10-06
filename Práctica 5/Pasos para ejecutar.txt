@@ -1,0 +1,1 @@
+python3 busters.py -p GreedyBustersAgent -l smallHunt
