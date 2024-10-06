@@ -19,4 +19,4 @@ Este repositorio contiene el trabajo realizado en varias prácticas relacionadas
 - **Java**: El proyecto utiliza Java para implementar los algoritmos de búsqueda y optimización. Asegúrate de tener instalada la versión 1.8 del JDK.
 - **Librerías**: Se utilizan las librerías disponibles en los paquetes `aima.core` y `aima.gui` de la biblioteca AIMA Java.
 - **Python**: La práctica 4 requiere Python. Se recomienda utilizar un entorno local de Python con ANACONDA, que incluye librerías preinstaladas y facilita la ejecución de los programas.
--**CLIPS**: El TP6-1-3 requiere de la utilización de CLIPS para poder ejecutarlo.
+- **CLIPS**: El TP6-1-3 requiere de la utilización de CLIPS para poder ejecutarlo.
